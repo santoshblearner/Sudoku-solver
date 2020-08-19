@@ -1,5 +1,5 @@
 ## Summary
-Python program to solve sudoku leveraging backtracking algorithm. This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI as well as a text based version.
+Python program to solve sudoku leveraging backtracking algorithm. 
 
 ## How to play?
 Please run GUI.py
